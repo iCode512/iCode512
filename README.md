@@ -4,7 +4,7 @@ Welcome to our iCode512 Github page!
 
 As part of our curriculum, all students will use GitHub to store, manage, and submit their projects. Learning to organize a repository is just as important as writing quality code. A clean and consistent repository makes it easier to collaborate with others, troubleshoot issues, and showcase your work to future employers.
 
-To help establish good development habits, all instructors will follow the same GitHub organization standards outlined in the "iCode-Github-SOP" repository at the start of the Fall 2026 school year. These guidelines define the expected folder structure, file naming conventions, repository organization, and best practices that students should use throughout their coursework.
+To help establish good development habits, all instructors will follow the same GitHub organization standards outlined in the "iCode-Github-SOP" repository at the start of the Fall 2026 school year. These guidelines define the expected folder structure, file naming conventions, repository organization, and best practices that students should use throughout their coursework at iCode.
 
 By maintaining a well-organized repository from the start, you'll spend less time searching for files, make collaboration more efficient, and build professional habits that mirror real-world software development practices.
 
