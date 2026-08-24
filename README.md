@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome, to iCode512 github! 
+Welcome to our iCode512 Github! 
 <!--
 **iCode512/iCode512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
